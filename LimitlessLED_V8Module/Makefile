@@ -1,5 +1,5 @@
 ### Variables ###
-TARGET = modsample.so
+TARGET = limitlessled.so
 
 OBJECTS = $(patsubst %.cpp,%.o,$(wildcard *.cpp))
 
