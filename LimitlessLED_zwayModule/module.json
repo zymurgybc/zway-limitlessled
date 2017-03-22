@@ -1,0 +1,6 @@
+{
+  'type':'settings',
+  'setting' {
+     'controller': 'easybulb-plus'
+  }
+}
